@@ -16,7 +16,7 @@ Official repository of the ICML'26 paper "MADA-Attack: Transferable Multi-modal 
 
 ## Getting Started
 ### Inference
-We provide UAP checkpoint on [Hugging Face](https://huggingface.co/AntlersTheWarden/MADA/tree/main), and you can follow the inference instructions in the HF repo or use Inference.py with the script below.
+We provide UAP checkpoint on [Hugging Face](https://huggingface.co/AntlersTheWarden/MADA/tree/main), and you can follow the instructions in the HF repo or use [Inference Sample](inference.py) with the script below.
 ```
 python inference.py --images dataset_path/ --output_dir output_path/
 ```
